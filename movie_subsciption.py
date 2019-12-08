@@ -1,3 +1,4 @@
+# Checking several elements in the list
 for i in range(int(input())):
     n, k, d = [int(x) for x in input().split()]
     a = [int(x) for x in input().split()]
